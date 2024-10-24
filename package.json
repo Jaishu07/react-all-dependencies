@@ -1,0 +1,44 @@
+{
+  "name": "react-all-dependencies",
+  "version": "1.0.0",
+  "description": "this is a one camand install react for frontend all dependencic",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaishu07/react-all-dependencies.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Yashwant Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaishu07/react-all-dependencies/issues"
+  },
+  "homepage": "https://github.com/jaishu07/react-all-dependencies#readme",
+  "dependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "axios": "^1.7.7",
+    "enzyme": "^3.11.0",
+    "jest": "^29.7.0",
+    "material-ui": "^0.20.2",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^16.14.0",
+    "react-hook-form": "^7.53.1",
+    "react-query": "^3.39.3",
+    "react-redux": "^9.1.2",
+    "react-router-dom": "^6.27.0",
+    "react-testing-library": "^8.0.1",
+    "redux": "^5.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^3.1.0",
+    "sass": "^1.80.4",
+    "styled-components": "^6.1.13"
+  }
+}
